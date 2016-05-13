@@ -1,0 +1,438 @@
+GEOID,INDX,DSTRCT,GINI,GINI_ERR
+5001400US0101,101,"Congressional District 1 (114th Congress), Alabama",0.4698,0.0059
+5001400US0102,102,"Congressional District 2 (114th Congress), Alabama",0.4546,0.0046
+5001400US0103,103,"Congressional District 3 (114th Congress), Alabama",0.4698,0.0048
+5001400US0104,104,"Congressional District 4 (114th Congress), Alabama",0.4592,0.0049
+5001400US0105,105,"Congressional District 5 (114th Congress), Alabama",0.4702,0.0057
+5001400US0106,106,"Congressional District 6 (114th Congress), Alabama",0.4591,0.0052
+5001400US0107,107,"Congressional District 7 (114th Congress), Alabama",0.4896,0.0051
+5001400US0200,200,"Congressional District (at Large) (114th Congress), Alaska",0.4146,0.0045
+5001400US0401,401,"Congressional District 1 (114th Congress), Arizona",0.4508,0.0056
+5001400US0402,402,"Congressional District 2 (114th Congress), Arizona",0.4666,0.0048
+5001400US0403,403,"Congressional District 3 (114th Congress), Arizona",0.4377,0.0057
+5001400US0404,404,"Congressional District 4 (114th Congress), Arizona",0.4277,0.0053
+5001400US0405,405,"Congressional District 5 (114th Congress), Arizona",0.4187,0.0044
+5001400US0406,406,"Congressional District 6 (114th Congress), Arizona",0.4947,0.0045
+5001400US0407,407,"Congressional District 7 (114th Congress), Arizona",0.4644,0.0044
+5001400US0408,408,"Congressional District 8 (114th Congress), Arizona",0.4067,0.0042
+5001400US0409,409,"Congressional District 9 (114th Congress), Arizona",0.472,0.0047
+5001400US0501,501,"Congressional District 1 (114th Congress), Arkansas",0.4607,0.0052
+5001400US0502,502,"Congressional District 2 (114th Congress), Arkansas",0.46,0.0052
+5001400US0503,503,"Congressional District 3 (114th Congress), Arkansas",0.4705,0.0049
+5001400US0504,504,"Congressional District 4 (114th Congress), Arkansas",0.458,0.0048
+5001400US0601,601,"Congressional District 1 (114th Congress), California",0.4562,0.005
+5001400US0602,602,"Congressional District 2 (114th Congress), California",0.5212,0.0052
+5001400US0603,603,"Congressional District 3 (114th Congress), California",0.4522,0.0048
+5001400US0604,604,"Congressional District 4 (114th Congress), California",0.4489,0.0048
+5001400US0605,605,"Congressional District 5 (114th Congress), California",0.4482,0.006
+5001400US0606,606,"Congressional District 6 (114th Congress), California",0.4675,0.0073
+5001400US0607,607,"Congressional District 7 (114th Congress), California",0.4309,0.0047
+5001400US0608,608,"Congressional District 8 (114th Congress), California",0.4408,0.0056
+5001400US0609,609,"Congressional District 9 (114th Congress), California",0.4489,0.0048
+5001400US0610,610,"Congressional District 10 (114th Congress), California",0.4394,0.007
+5001400US0611,611,"Congressional District 11 (114th Congress), California",0.4864,0.0051
+5001400US0612,612,"Congressional District 12 (114th Congress), California",0.5193,0.0054
+5001400US0613,613,"Congressional District 13 (114th Congress), California",0.5127,0.0044
+5001400US0614,614,"Congressional District 14 (114th Congress), California",0.4631,0.0053
+5001400US0615,615,"Congressional District 15 (114th Congress), California",0.4236,0.0042
+5001400US0616,616,"Congressional District 16 (114th Congress), California",0.4632,0.0064
+5001400US0617,617,"Congressional District 17 (114th Congress), California",0.413,0.0039
+5001400US0618,618,"Congressional District 18 (114th Congress), California",0.4955,0.0044
+5001400US0619,619,"Congressional District 19 (114th Congress), California",0.4555,0.0056
+5001400US0620,620,"Congressional District 20 (114th Congress), California",0.4583,0.0051
+5001400US0621,621,"Congressional District 21 (114th Congress), California",0.4451,0.0053
+5001400US0622,622,"Congressional District 22 (114th Congress), California",0.4573,0.0062
+5001400US0623,623,"Congressional District 23 (114th Congress), California",0.4507,0.0055
+5001400US0624,624,"Congressional District 24 (114th Congress), California",0.4738,0.0056
+5001400US0625,625,"Congressional District 25 (114th Congress), California",0.4387,0.0055
+5001400US0626,626,"Congressional District 26 (114th Congress), California",0.4492,0.0055
+5001400US0627,627,"Congressional District 27 (114th Congress), California",0.4807,0.0049
+5001400US0628,628,"Congressional District 28 (114th Congress), California",0.5204,0.0048
+5001400US0629,629,"Congressional District 29 (114th Congress), California",0.4345,0.0046
+5001400US0630,630,"Congressional District 30 (114th Congress), California",0.4912,0.0051
+5001400US0631,631,"Congressional District 31 (114th Congress), California",0.4496,0.0054
+5001400US0632,632,"Congressional District 32 (114th Congress), California",0.4175,0.0045
+5001400US0633,633,"Congressional District 33 (114th Congress), California",0.5342,0.0051
+5001400US0634,634,"Congressional District 34 (114th Congress), California",0.4906,0.0061
+5001400US0635,635,"Congressional District 35 (114th Congress), California",0.4004,0.0041
+5001400US0636,636,"Congressional District 36 (114th Congress), California",0.4863,0.0069
+5001400US0637,637,"Congressional District 37 (114th Congress), California",0.5256,0.0053
+5001400US0638,638,"Congressional District 38 (114th Congress), California",0.4181,0.0045
+5001400US0639,639,"Congressional District 39 (114th Congress), California",0.4322,0.005
+5001400US0640,640,"Congressional District 40 (114th Congress), California",0.4277,0.0047
+5001400US0641,641,"Congressional District 41 (114th Congress), California",0.4244,0.0054
+5001400US0642,642,"Congressional District 42 (114th Congress), California",0.4006,0.0052
+5001400US0643,643,"Congressional District 43 (114th Congress), California",0.4648,0.0049
+5001400US0644,644,"Congressional District 44 (114th Congress), California",0.434,0.0049
+5001400US0645,645,"Congressional District 45 (114th Congress), California",0.4418,0.0046
+5001400US0646,646,"Congressional District 46 (114th Congress), California",0.4196,0.0063
+5001400US0647,647,"Congressional District 47 (114th Congress), California",0.4575,0.0042
+5001400US0648,648,"Congressional District 48 (114th Congress), California",0.4851,0.0056
+5001400US0649,649,"Congressional District 49 (114th Congress), California",0.4837,0.006
+5001400US0650,650,"Congressional District 50 (114th Congress), California",0.4414,0.0048
+5001400US0651,651,"Congressional District 51 (114th Congress), California",0.4418,0.0046
+5001400US0652,652,"Congressional District 52 (114th Congress), California",0.4598,0.0055
+5001400US0653,653,"Congressional District 53 (114th Congress), California",0.4295,0.0052
+5001400US0801,801,"Congressional District 1 (114th Congress), Colorado",0.5017,0.0056
+5001400US0802,802,"Congressional District 2 (114th Congress), Colorado",0.4651,0.005
+5001400US0803,803,"Congressional District 3 (114th Congress), Colorado",0.4579,0.0062
+5001400US0804,804,"Congressional District 4 (114th Congress), Colorado",0.4445,0.0051
+5001400US0805,805,"Congressional District 5 (114th Congress), Colorado",0.4418,0.0056
+5001400US0806,806,"Congressional District 6 (114th Congress), Colorado",0.4421,0.0065
+5001400US0807,807,"Congressional District 7 (114th Congress), Colorado",0.4192,0.0047
+5001400US0901,901,"Congressional District 1 (114th Congress), Connecticut",0.4614,0.0048
+5001400US0902,902,"Congressional District 2 (114th Congress), Connecticut",0.4268,0.0042
+5001400US0903,903,"Congressional District 3 (114th Congress), Connecticut",0.4621,0.0039
+5001400US0904,904,"Congressional District 4 (114th Congress), Connecticut",0.5569,0.0043
+5001400US0905,905,"Congressional District 5 (114th Congress), Connecticut",0.4729,0.0051
+5001400US1000,1000,"Congressional District (at Large) (114th Congress), Delaware",0.4433,0.0047
+5001400US1198,1198,"Delegate District (at Large) (114th Congress), District of Columbia",0.5295,0.0054
+5001400US1201,1201,"Congressional District 1 (114th Congress), Florida",0.4454,0.0056
+5001400US1202,1202,"Congressional District 2 (114th Congress), Florida",0.4676,0.0048
+5001400US1203,1203,"Congressional District 3 (114th Congress), Florida",0.4662,0.0061
+5001400US1204,1204,"Congressional District 4 (114th Congress), Florida",0.4557,0.008
+5001400US1205,1205,"Congressional District 5 (114th Congress), Florida",0.4558,0.0051
+5001400US1206,1206,"Congressional District 6 (114th Congress), Florida",0.4888,0.0063
+5001400US1207,1207,"Congressional District 7 (114th Congress), Florida",0.4667,0.0072
+5001400US1208,1208,"Congressional District 8 (114th Congress), Florida",0.4646,0.006
+5001400US1209,1209,"Congressional District 9 (114th Congress), Florida",0.4279,0.0056
+5001400US1210,1210,"Congressional District 10 (114th Congress), Florida",0.4652,0.0064
+5001400US1211,1211,"Congressional District 11 (114th Congress), Florida",0.4335,0.0072
+5001400US1212,1212,"Congressional District 12 (114th Congress), Florida",0.4613,0.0051
+5001400US1213,1213,"Congressional District 13 (114th Congress), Florida",0.4743,0.0058
+5001400US1214,1214,"Congressional District 14 (114th Congress), Florida",0.5011,0.0063
+5001400US1215,1215,"Congressional District 15 (114th Congress), Florida",0.4524,0.0055
+5001400US1216,1216,"Congressional District 16 (114th Congress), Florida",0.4738,0.0061
+5001400US1217,1217,"Congressional District 17 (114th Congress), Florida",0.4384,0.0058
+5001400US1218,1218,"Congressional District 18 (114th Congress), Florida",0.5041,0.0067
+5001400US1219,1219,"Congressional District 19 (114th Congress), Florida",0.5093,0.0076
+5001400US1220,1220,"Congressional District 20 (114th Congress), Florida",0.4376,0.0047
+5001400US1221,1221,"Congressional District 21 (114th Congress), Florida",0.4743,0.0061
+5001400US1222,1222,"Congressional District 22 (114th Congress), Florida",0.5267,0.0051
+5001400US1223,1223,"Congressional District 23 (114th Congress), Florida",0.5141,0.008
+5001400US1224,1224,"Congressional District 24 (114th Congress), Florida",0.4881,0.0059
+5001400US1225,1225,"Congressional District 25 (114th Congress), Florida",0.4594,0.0079
+5001400US1226,1226,"Congressional District 26 (114th Congress), Florida",0.452,0.005
+5001400US1227,1227,"Congressional District 27 (114th Congress), Florida",0.5656,0.0067
+5001400US1301,1301,"Congressional District 1 (114th Congress), Georgia",0.4579,0.0052
+5001400US1302,1302,"Congressional District 2 (114th Congress), Georgia",0.4935,0.0065
+5001400US1303,1303,"Congressional District 3 (114th Congress), Georgia",0.4549,0.0062
+5001400US1304,1304,"Congressional District 4 (114th Congress), Georgia",0.434,0.0052
+5001400US1305,1305,"Congressional District 5 (114th Congress), Georgia",0.5398,0.0058
+5001400US1306,1306,"Congressional District 6 (114th Congress), Georgia",0.4721,0.0053
+5001400US1307,1307,"Congressional District 7 (114th Congress), Georgia",0.4361,0.0058
+5001400US1308,1308,"Congressional District 8 (114th Congress), Georgia",0.468,0.0051
+5001400US1309,1309,"Congressional District 9 (114th Congress), Georgia",0.4503,0.0045
+5001400US1310,1310,"Congressional District 10 (114th Congress), Georgia",0.4616,0.0045
+5001400US1311,1311,"Congressional District 11 (114th Congress), Georgia",0.4741,0.006
+5001400US1312,1312,"Congressional District 12 (114th Congress), Georgia",0.4794,0.0051
+5001400US1313,1313,"Congressional District 13 (114th Congress), Georgia",0.4318,0.0061
+5001400US1314,1314,"Congressional District 14 (114th Congress), Georgia",0.4358,0.0054
+5001400US1501,1501,"Congressional District 1 (114th Congress), Hawaii",0.4226,0.005
+5001400US1502,1502,"Congressional District 2 (114th Congress), Hawaii",0.4409,0.005
+5001400US1601,1601,"Congressional District 1 (114th Congress), Idaho",0.4303,0.0071
+5001400US1602,1602,"Congressional District 2 (114th Congress), Idaho",0.4446,0.0053
+5001400US1701,1701,"Congressional District 1 (114th Congress), Illinois",0.4728,0.0045
+5001400US1702,1702,"Congressional District 2 (114th Congress), Illinois",0.4547,0.0044
+5001400US1703,1703,"Congressional District 3 (114th Congress), Illinois",0.4366,0.0047
+5001400US1704,1704,"Congressional District 4 (114th Congress), Illinois",0.4396,0.0057
+5001400US1705,1705,"Congressional District 5 (114th Congress), Illinois",0.4941,0.0046
+5001400US1706,1706,"Congressional District 6 (114th Congress), Illinois",0.4462,0.0049
+5001400US1707,1707,"Congressional District 7 (114th Congress), Illinois",0.5633,0.0065
+5001400US1708,1708,"Congressional District 8 (114th Congress), Illinois",0.4077,0.0058
+5001400US1709,1709,"Congressional District 9 (114th Congress), Illinois",0.5089,0.0052
+5001400US1710,1710,"Congressional District 10 (114th Congress), Illinois",0.4923,0.0043
+5001400US1711,1711,"Congressional District 11 (114th Congress), Illinois",0.4216,0.0045
+5001400US1712,1712,"Congressional District 12 (114th Congress), Illinois",0.4587,0.0052
+5001400US1713,1713,"Congressional District 13 (114th Congress), Illinois",0.4676,0.0048
+5001400US1714,1714,"Congressional District 14 (114th Congress), Illinois",0.4068,0.0047
+5001400US1715,1715,"Congressional District 15 (114th Congress), Illinois",0.4353,0.0039
+5001400US1716,1716,"Congressional District 16 (114th Congress), Illinois",0.4236,0.0043
+5001400US1717,1717,"Congressional District 17 (114th Congress), Illinois",0.4356,0.0041
+5001400US1718,1718,"Congressional District 18 (114th Congress), Illinois",0.4314,0.0046
+5001400US1801,1801,"Congressional District 1 (114th Congress), Indiana",0.4411,0.005
+5001400US1802,1802,"Congressional District 2 (114th Congress), Indiana",0.4335,0.0055
+5001400US1803,1803,"Congressional District 3 (114th Congress), Indiana",0.4273,0.0049
+5001400US1804,1804,"Congressional District 4 (114th Congress), Indiana",0.4238,0.0053
+5001400US1805,1805,"Congressional District 5 (114th Congress), Indiana",0.469,0.0048
+5001400US1806,1806,"Congressional District 6 (114th Congress), Indiana",0.4292,0.0053
+5001400US1807,1807,"Congressional District 7 (114th Congress), Indiana",0.4548,0.0064
+5001400US1808,1808,"Congressional District 8 (114th Congress), Indiana",0.4351,0.0042
+5001400US1809,1809,"Congressional District 9 (114th Congress), Indiana",0.4377,0.005
+5001400US1901,1901,"Congressional District 1 (114th Congress), Iowa",0.4198,0.0037
+5001400US1902,1902,"Congressional District 2 (114th Congress), Iowa",0.4454,0.0053
+5001400US1903,1903,"Congressional District 3 (114th Congress), Iowa",0.4362,0.0047
+5001400US1904,1904,"Congressional District 4 (114th Congress), Iowa",0.436,0.0041
+5001400US2001,2001,"Congressional District 1 (114th Congress), Kansas",0.4341,0.0047
+5001400US2002,2002,"Congressional District 2 (114th Congress), Kansas",0.4385,0.0048
+5001400US2003,2003,"Congressional District 3 (114th Congress), Kansas",0.4598,0.006
+5001400US2004,2004,"Congressional District 4 (114th Congress), Kansas",0.4404,0.0041
+5001400US2101,2101,"Congressional District 1 (114th Congress), Kentucky",0.4516,0.0048
+5001400US2102,2102,"Congressional District 2 (114th Congress), Kentucky",0.4413,0.0054
+5001400US2103,2103,"Congressional District 3 (114th Congress), Kentucky",0.4816,0.0072
+5001400US2104,2104,"Congressional District 4 (114th Congress), Kentucky",0.4477,0.0048
+5001400US2105,2105,"Congressional District 5 (114th Congress), Kentucky",0.4779,0.0063
+5001400US2106,2106,"Congressional District 6 (114th Congress), Kentucky",0.4737,0.0058
+5001400US2201,2201,"Congressional District 1 (114th Congress), Louisiana",0.4744,0.0048
+5001400US2202,2202,"Congressional District 2 (114th Congress), Louisiana",0.5043,0.0047
+5001400US2203,2203,"Congressional District 3 (114th Congress), Louisiana",0.4777,0.005
+5001400US2204,2204,"Congressional District 4 (114th Congress), Louisiana",0.4806,0.0043
+5001400US2205,2205,"Congressional District 5 (114th Congress), Louisiana",0.4914,0.0053
+5001400US2206,2206,"Congressional District 6 (114th Congress), Louisiana",0.4491,0.0056
+5001400US2301,2301,"Congressional District 1 (114th Congress), Maine",0.4481,0.0056
+5001400US2302,2302,"Congressional District 2 (114th Congress), Maine",0.4396,0.0048
+5001400US2401,2401,"Congressional District 1 (114th Congress), Maryland",0.4337,0.0054
+5001400US2402,2402,"Congressional District 2 (114th Congress), Maryland",0.4235,0.0052
+5001400US2403,2403,"Congressional District 3 (114th Congress), Maryland",0.449,0.0046
+5001400US2404,2404,"Congressional District 4 (114th Congress), Maryland",0.4064,0.0041
+5001400US2405,2405,"Congressional District 5 (114th Congress), Maryland",0.3872,0.0044
+5001400US2406,2406,"Congressional District 6 (114th Congress), Maryland",0.4601,0.0047
+5001400US2407,2407,"Congressional District 7 (114th Congress), Maryland",0.5053,0.0049
+5001400US2408,2408,"Congressional District 8 (114th Congress), Maryland",0.4572,0.0042
+5001400US2501,2501,"Congressional District 1 (114th Congress), Massachusetts",0.4595,0.0042
+5001400US2502,2502,"Congressional District 2 (114th Congress), Massachusetts",0.4477,0.0037
+5001400US2503,2503,"Congressional District 3 (114th Congress), Massachusetts",0.469,0.0046
+5001400US2504,2504,"Congressional District 4 (114th Congress), Massachusetts",0.4886,0.0047
+5001400US2505,2505,"Congressional District 5 (114th Congress), Massachusetts",0.4841,0.0048
+5001400US2506,2506,"Congressional District 6 (114th Congress), Massachusetts",0.4542,0.0043
+5001400US2507,2507,"Congressional District 7 (114th Congress), Massachusetts",0.521,0.0063
+5001400US2508,2508,"Congressional District 8 (114th Congress), Massachusetts",0.4629,0.0048
+5001400US2509,2509,"Congressional District 9 (114th Congress), Massachusetts",0.4606,0.0045
+5001400US2601,2601,"Congressional District 1 (114th Congress), Michigan",0.4452,0.0044
+5001400US2602,2602,"Congressional District 2 (114th Congress), Michigan",0.4254,0.0048
+5001400US2603,2603,"Congressional District 3 (114th Congress), Michigan",0.449,0.0052
+5001400US2604,2604,"Congressional District 4 (114th Congress), Michigan",0.444,0.0037
+5001400US2605,2605,"Congressional District 5 (114th Congress), Michigan",0.449,0.0044
+5001400US2606,2606,"Congressional District 6 (114th Congress), Michigan",0.4482,0.0041
+5001400US2607,2607,"Congressional District 7 (114th Congress), Michigan",0.4238,0.0039
+5001400US2608,2608,"Congressional District 8 (114th Congress), Michigan",0.4453,0.0041
+5001400US2609,2609,"Congressional District 9 (114th Congress), Michigan",0.4583,0.0041
+5001400US2610,2610,"Congressional District 10 (114th Congress), Michigan",0.416,0.0038
+5001400US2611,2611,"Congressional District 11 (114th Congress), Michigan",0.4395,0.0041
+5001400US2612,2612,"Congressional District 12 (114th Congress), Michigan",0.4594,0.0038
+5001400US2613,2613,"Congressional District 13 (114th Congress), Michigan",0.4768,0.0043
+5001400US2614,2614,"Congressional District 14 (114th Congress), Michigan",0.525,0.0048
+5001400US2701,2701,"Congressional District 1 (114th Congress), Minnesota",0.4319,0.0036
+5001400US2702,2702,"Congressional District 2 (114th Congress), Minnesota",0.4061,0.0037
+5001400US2703,2703,"Congressional District 3 (114th Congress), Minnesota",0.4582,0.0047
+5001400US2704,2704,"Congressional District 4 (114th Congress), Minnesota",0.4576,0.0039
+5001400US2705,2705,"Congressional District 5 (114th Congress), Minnesota",0.4833,0.0049
+5001400US2706,2706,"Congressional District 6 (114th Congress), Minnesota",0.3901,0.005
+5001400US2707,2707,"Congressional District 7 (114th Congress), Minnesota",0.4237,0.0036
+5001400US2708,2708,"Congressional District 8 (114th Congress), Minnesota",0.4258,0.003
+5001400US2801,2801,"Congressional District 1 (114th Congress), Mississippi",0.4539,0.0053
+5001400US2802,2802,"Congressional District 2 (114th Congress), Mississippi",0.4893,0.0055
+5001400US2803,2803,"Congressional District 3 (114th Congress), Mississippi",0.4931,0.0051
+5001400US2804,2804,"Congressional District 4 (114th Congress), Mississippi",0.4627,0.0056
+5001400US2901,2901,"Congressional District 1 (114th Congress), Missouri",0.481,0.0052
+5001400US2902,2902,"Congressional District 2 (114th Congress), Missouri",0.4557,0.005
+5001400US2903,2903,"Congressional District 3 (114th Congress), Missouri",0.4083,0.0047
+5001400US2904,2904,"Congressional District 4 (114th Congress), Missouri",0.4448,0.0043
+5001400US2905,2905,"Congressional District 5 (114th Congress), Missouri",0.454,0.005
+5001400US2906,2906,"Congressional District 6 (114th Congress), Missouri",0.437,0.0044
+5001400US2907,2907,"Congressional District 7 (114th Congress), Missouri",0.4452,0.0053
+5001400US2908,2908,"Congressional District 8 (114th Congress), Missouri",0.4477,0.0054
+5001400US3000,3000,"Congressional District (at Large) (114th Congress), Montana",0.4484,0.0035
+5001400US3101,3101,"Congressional District 1 (114th Congress), Nebraska",0.4273,0.0036
+5001400US3102,3102,"Congressional District 2 (114th Congress), Nebraska",0.4508,0.0048
+5001400US3103,3103,"Congressional District 3 (114th Congress), Nebraska",0.4276,0.0043
+5001400US3201,3201,"Congressional District 1 (114th Congress), Nevada",0.4543,0.0058
+5001400US3202,3202,"Congressional District 2 (114th Congress), Nevada",0.4519,0.0058
+5001400US3203,3203,"Congressional District 3 (114th Congress), Nevada",0.4378,0.0066
+5001400US3204,3204,"Congressional District 4 (114th Congress), Nevada",0.4223,0.0046
+5001400US3301,3301,"Congressional District 1 (114th Congress), New Hampshire",0.4358,0.0055
+5001400US3302,3302,"Congressional District 2 (114th Congress), New Hampshire",0.4319,0.0045
+5001400US3401,3401,"Congressional District 1 (114th Congress), New Jersey",0.4457,0.0043
+5001400US3402,3402,"Congressional District 2 (114th Congress), New Jersey",0.444,0.004
+5001400US3403,3403,"Congressional District 3 (114th Congress), New Jersey",0.4246,0.0043
+5001400US3404,3404,"Congressional District 4 (114th Congress), New Jersey",0.4651,0.0052
+5001400US3405,3405,"Congressional District 5 (114th Congress), New Jersey",0.4575,0.0049
+5001400US3406,3406,"Congressional District 6 (114th Congress), New Jersey",0.438,0.0045
+5001400US3407,3407,"Congressional District 7 (114th Congress), New Jersey",0.4618,0.0043
+5001400US3408,3408,"Congressional District 8 (114th Congress), New Jersey",0.4909,0.0042
+5001400US3409,3409,"Congressional District 9 (114th Congress), New Jersey",0.4874,0.0064
+5001400US3410,3410,"Congressional District 10 (114th Congress), New Jersey",0.5022,0.0044
+5001400US3411,3411,"Congressional District 11 (114th Congress), New Jersey",0.4478,0.0044
+5001400US3412,3412,"Congressional District 12 (114th Congress), New Jersey",0.4585,0.005
+5001400US3501,3501,"Congressional District 1 (114th Congress), New Mexico",0.4719,0.0051
+5001400US3502,3502,"Congressional District 2 (114th Congress), New Mexico",0.4649,0.0072
+5001400US3503,3503,"Congressional District 3 (114th Congress), New Mexico",0.4749,0.0049
+5001400US3601,3601,"Congressional District 1 (114th Congress), New York",0.4247,0.0048
+5001400US3602,3602,"Congressional District 2 (114th Congress), New York",0.3915,0.0042
+5001400US3603,3603,"Congressional District 3 (114th Congress), New York",0.4813,0.0039
+5001400US3604,3604,"Congressional District 4 (114th Congress), New York",0.4373,0.005
+5001400US3605,3605,"Congressional District 5 (114th Congress), New York",0.4303,0.0042
+5001400US3606,3606,"Congressional District 6 (114th Congress), New York",0.4517,0.0043
+5001400US3607,3607,"Congressional District 7 (114th Congress), New York",0.5405,0.004
+5001400US3608,3608,"Congressional District 8 (114th Congress), New York",0.5056,0.0053
+5001400US3609,3609,"Congressional District 9 (114th Congress), New York",0.5032,0.0054
+5001400US3610,3610,"Congressional District 10 (114th Congress), New York",0.5817,0.0066
+5001400US3611,3611,"Congressional District 11 (114th Congress), New York",0.4615,0.0048
+5001400US3612,3612,"Congressional District 12 (114th Congress), New York",0.566,0.0065
+5001400US3613,3613,"Congressional District 13 (114th Congress), New York",0.5204,0.0061
+5001400US3614,3614,"Congressional District 14 (114th Congress), New York",0.4395,0.0046
+5001400US3615,3615,"Congressional District 15 (114th Congress), New York",0.489,0.0061
+5001400US3616,3616,"Congressional District 16 (114th Congress), New York",0.5413,0.0054
+5001400US3617,3617,"Congressional District 17 (114th Congress), New York",0.4883,0.0049
+5001400US3618,3618,"Congressional District 18 (114th Congress), New York",0.4624,0.0057
+5001400US3619,3619,"Congressional District 19 (114th Congress), New York",0.4471,0.0043
+5001400US3620,3620,"Congressional District 20 (114th Congress), New York",0.442,0.0047
+5001400US3621,3621,"Congressional District 21 (114th Congress), New York",0.4302,0.0046
+5001400US3622,3622,"Congressional District 22 (114th Congress), New York",0.4363,0.0038
+5001400US3623,3623,"Congressional District 23 (114th Congress), New York",0.4442,0.004
+5001400US3624,3624,"Congressional District 24 (114th Congress), New York",0.4454,0.0037
+5001400US3625,3625,"Congressional District 25 (114th Congress), New York",0.4627,0.0048
+5001400US3626,3626,"Congressional District 26 (114th Congress), New York",0.4641,0.0051
+5001400US3627,3627,"Congressional District 27 (114th Congress), New York",0.4243,0.0058
+5001400US3701,3701,"Congressional District 1 (114th Congress), North Carolina",0.4701,0.0055
+5001400US3702,3702,"Congressional District 2 (114th Congress), North Carolina",0.4513,0.005
+5001400US3703,3703,"Congressional District 3 (114th Congress), North Carolina",0.4412,0.0067
+5001400US3704,3704,"Congressional District 4 (114th Congress), North Carolina",0.4794,0.0048
+5001400US3705,3705,"Congressional District 5 (114th Congress), North Carolina",0.4713,0.0052
+5001400US3706,3706,"Congressional District 6 (114th Congress), North Carolina",0.4602,0.0053
+5001400US3707,3707,"Congressional District 7 (114th Congress), North Carolina",0.4589,0.0057
+5001400US3708,3708,"Congressional District 8 (114th Congress), North Carolina",0.4401,0.0041
+5001400US3709,3709,"Congressional District 9 (114th Congress), North Carolina",0.4718,0.0057
+5001400US3710,3710,"Congressional District 10 (114th Congress), North Carolina",0.4602,0.0048
+5001400US3711,3711,"Congressional District 11 (114th Congress), North Carolina",0.4478,0.0053
+5001400US3712,3712,"Congressional District 12 (114th Congress), North Carolina",0.4611,0.0061
+5001400US3713,3713,"Congressional District 13 (114th Congress), North Carolina",0.4419,0.0047
+5001400US3800,3800,"Congressional District (at Large) (114th Congress), North Dakota",0.4535,0.0049
+5001400US3901,3901,"Congressional District 1 (114th Congress), Ohio",0.4901,0.0048
+5001400US3902,3902,"Congressional District 2 (114th Congress), Ohio",0.4726,0.0048
+5001400US3903,3903,"Congressional District 3 (114th Congress), Ohio",0.4656,0.0054
+5001400US3904,3904,"Congressional District 4 (114th Congress), Ohio",0.4199,0.0048
+5001400US3905,3905,"Congressional District 5 (114th Congress), Ohio",0.4339,0.0046
+5001400US3906,3906,"Congressional District 6 (114th Congress), Ohio",0.4384,0.0046
+5001400US3907,3907,"Congressional District 7 (114th Congress), Ohio",0.4248,0.0041
+5001400US3908,3908,"Congressional District 8 (114th Congress), Ohio",0.4333,0.0047
+5001400US3909,3909,"Congressional District 9 (114th Congress), Ohio",0.4615,0.0044
+5001400US3910,3910,"Congressional District 10 (114th Congress), Ohio",0.4617,0.0042
+5001400US3911,3911,"Congressional District 11 (114th Congress), Ohio",0.5418,0.005
+5001400US3912,3912,"Congressional District 12 (114th Congress), Ohio",0.4522,0.0045
+5001400US3913,3913,"Congressional District 13 (114th Congress), Ohio",0.4385,0.0047
+5001400US3914,3914,"Congressional District 14 (114th Congress), Ohio",0.4497,0.0048
+5001400US3915,3915,"Congressional District 15 (114th Congress), Ohio",0.4427,0.0051
+5001400US3916,3916,"Congressional District 16 (114th Congress), Ohio",0.4202,0.0039
+5001400US4001,4001,"Congressional District 1 (114th Congress), Oklahoma",0.4698,0.0044
+5001400US4002,4002,"Congressional District 2 (114th Congress), Oklahoma",0.4504,0.0037
+5001400US4003,4003,"Congressional District 3 (114th Congress), Oklahoma",0.4463,0.0041
+5001400US4004,4004,"Congressional District 4 (114th Congress), Oklahoma",0.4341,0.0045
+5001400US4005,4005,"Congressional District 5 (114th Congress), Oklahoma",0.4931,0.0063
+5001400US4101,4101,"Congressional District 1 (114th Congress), Oregon",0.4424,0.0048
+5001400US4102,4102,"Congressional District 2 (114th Congress), Oregon",0.4523,0.0056
+5001400US4103,4103,"Congressional District 3 (114th Congress), Oregon",0.4668,0.0053
+5001400US4104,4104,"Congressional District 4 (114th Congress), Oregon",0.457,0.0049
+5001400US4105,4105,"Congressional District 5 (114th Congress), Oregon",0.4467,0.0047
+5001400US4201,4201,"Congressional District 1 (114th Congress), Pennsylvania",0.4981,0.0049
+5001400US4202,4202,"Congressional District 2 (114th Congress), Pennsylvania",0.5831,0.0055
+5001400US4203,4203,"Congressional District 3 (114th Congress), Pennsylvania",0.4474,0.0045
+5001400US4204,4204,"Congressional District 4 (114th Congress), Pennsylvania",0.4224,0.0042
+5001400US4205,4205,"Congressional District 5 (114th Congress), Pennsylvania",0.4365,0.0046
+5001400US4206,4206,"Congressional District 6 (114th Congress), Pennsylvania",0.444,0.0037
+5001400US4207,4207,"Congressional District 7 (114th Congress), Pennsylvania",0.4524,0.0046
+5001400US4208,4208,"Congressional District 8 (114th Congress), Pennsylvania",0.4326,0.004
+5001400US4209,4209,"Congressional District 9 (114th Congress), Pennsylvania",0.4271,0.0035
+5001400US4210,4210,"Congressional District 10 (114th Congress), Pennsylvania",0.4244,0.0044
+5001400US4211,4211,"Congressional District 11 (114th Congress), Pennsylvania",0.4301,0.005
+5001400US4212,4212,"Congressional District 12 (114th Congress), Pennsylvania",0.4644,0.0043
+5001400US4213,4213,"Congressional District 13 (114th Congress), Pennsylvania",0.4639,0.0043
+5001400US4214,4214,"Congressional District 14 (114th Congress), Pennsylvania",0.4808,0.0043
+5001400US4215,4215,"Congressional District 15 (114th Congress), Pennsylvania",0.4378,0.0048
+5001400US4216,4216,"Congressional District 16 (114th Congress), Pennsylvania",0.4351,0.0042
+5001400US4217,4217,"Congressional District 17 (114th Congress), Pennsylvania",0.4355,0.0044
+5001400US4218,4218,"Congressional District 18 (114th Congress), Pennsylvania",0.445,0.0058
+5001400US4401,4401,"Congressional District 1 (114th Congress), Rhode Island",0.4898,0.0065
+5001400US4402,4402,"Congressional District 2 (114th Congress), Rhode Island",0.4534,0.0047
+5001400US4501,4501,"Congressional District 1 (114th Congress), South Carolina",0.45,0.0046
+5001400US4502,4502,"Congressional District 2 (114th Congress), South Carolina",0.4453,0.0049
+5001400US4503,4503,"Congressional District 3 (114th Congress), South Carolina",0.4553,0.006
+5001400US4504,4504,"Congressional District 4 (114th Congress), South Carolina",0.4695,0.005
+5001400US4505,4505,"Congressional District 5 (114th Congress), South Carolina",0.457,0.0052
+5001400US4506,4506,"Congressional District 6 (114th Congress), South Carolina",0.4759,0.0055
+5001400US4507,4507,"Congressional District 7 (114th Congress), South Carolina",0.4635,0.0051
+5001400US4600,4600,"Congressional District (at Large) (114th Congress), South Dakota",0.4404,0.0045
+5001400US4701,4701,"Congressional District 1 (114th Congress), Tennessee",0.4656,0.0062
+5001400US4702,4702,"Congressional District 2 (114th Congress), Tennessee",0.4736,0.0046
+5001400US4703,4703,"Congressional District 3 (114th Congress), Tennessee",0.4721,0.0055
+5001400US4704,4704,"Congressional District 4 (114th Congress), Tennessee",0.4386,0.0056
+5001400US4705,4705,"Congressional District 5 (114th Congress), Tennessee",0.4849,0.0042
+5001400US4706,4706,"Congressional District 6 (114th Congress), Tennessee",0.456,0.0061
+5001400US4707,4707,"Congressional District 7 (114th Congress), Tennessee",0.4854,0.0057
+5001400US4708,4708,"Congressional District 8 (114th Congress), Tennessee",0.4885,0.006
+5001400US4709,4709,"Congressional District 9 (114th Congress), Tennessee",0.4749,0.0069
+5001400US4801,4801,"Congressional District 1 (114th Congress), Texas",0.4679,0.0053
+5001400US4802,4802,"Congressional District 2 (114th Congress), Texas",0.462,0.0052
+5001400US4803,4803,"Congressional District 3 (114th Congress), Texas",0.4348,0.0048
+5001400US4804,4804,"Congressional District 4 (114th Congress), Texas",0.4536,0.004
+5001400US4805,4805,"Congressional District 5 (114th Congress), Texas",0.4547,0.0054
+5001400US4806,4806,"Congressional District 6 (114th Congress), Texas",0.4231,0.0052
+5001400US4807,4807,"Congressional District 7 (114th Congress), Texas",0.5273,0.0054
+5001400US4808,4808,"Congressional District 8 (114th Congress), Texas",0.4706,0.0052
+5001400US4809,4809,"Congressional District 9 (114th Congress), Texas",0.4517,0.0058
+5001400US4810,4810,"Congressional District 10 (114th Congress), Texas",0.4591,0.0053
+5001400US4811,4811,"Congressional District 11 (114th Congress), Texas",0.4804,0.0067
+5001400US4812,4812,"Congressional District 12 (114th Congress), Texas",0.4485,0.0056
+5001400US4813,4813,"Congressional District 13 (114th Congress), Texas",0.4516,0.0049
+5001400US4814,4814,"Congressional District 14 (114th Congress), Texas",0.4674,0.0046
+5001400US4815,4815,"Congressional District 15 (114th Congress), Texas",0.4832,0.0074
+5001400US4816,4816,"Congressional District 16 (114th Congress), Texas",0.4674,0.006
+5001400US4817,4817,"Congressional District 17 (114th Congress), Texas",0.468,0.0045
+5001400US4818,4818,"Congressional District 18 (114th Congress), Texas",0.4924,0.0052
+5001400US4819,4819,"Congressional District 19 (114th Congress), Texas",0.4705,0.0054
+5001400US4820,4820,"Congressional District 20 (114th Congress), Texas",0.4374,0.0048
+5001400US4821,4821,"Congressional District 21 (114th Congress), Texas",0.4738,0.0048
+5001400US4822,4822,"Congressional District 22 (114th Congress), Texas",0.4287,0.0066
+5001400US4823,4823,"Congressional District 23 (114th Congress), Texas",0.4856,0.0061
+5001400US4824,4824,"Congressional District 24 (114th Congress), Texas",0.474,0.0056
+5001400US4825,4825,"Congressional District 25 (114th Congress), Texas",0.4812,0.0063
+5001400US4826,4826,"Congressional District 26 (114th Congress), Texas",0.4127,0.0041
+5001400US4827,4827,"Congressional District 27 (114th Congress), Texas",0.4547,0.0064
+5001400US4828,4828,"Congressional District 28 (114th Congress), Texas",0.4569,0.0057
+5001400US4829,4829,"Congressional District 29 (114th Congress), Texas",0.4276,0.0054
+5001400US4830,4830,"Congressional District 30 (114th Congress), Texas",0.4653,0.0074
+5001400US4831,4831,"Congressional District 31 (114th Congress), Texas",0.4145,0.0041
+5001400US4832,4832,"Congressional District 32 (114th Congress), Texas",0.5144,0.0048
+5001400US4833,4833,"Congressional District 33 (114th Congress), Texas",0.4207,0.0043
+5001400US4834,4834,"Congressional District 34 (114th Congress), Texas",0.4894,0.005
+5001400US4835,4835,"Congressional District 35 (114th Congress), Texas",0.441,0.0076
+5001400US4836,4836,"Congressional District 36 (114th Congress), Texas",0.4479,0.0058
+5001400US4901,4901,"Congressional District 1 (114th Congress), Utah",0.4161,0.0055
+5001400US4902,4902,"Congressional District 2 (114th Congress), Utah",0.4445,0.0051
+5001400US4903,4903,"Congressional District 3 (114th Congress), Utah",0.4415,0.0066
+5001400US4904,4904,"Congressional District 4 (114th Congress), Utah",0.3906,0.0052
+5001400US5000,5000,"Congressional District (at Large) (114th Congress), Vermont",0.4412,0.0049
+5001400US5101,5101,"Congressional District 1 (114th Congress), Virginia",0.4113,0.0045
+5001400US5102,5102,"Congressional District 2 (114th Congress), Virginia",0.4231,0.0047
+5001400US5103,5103,"Congressional District 3 (114th Congress), Virginia",0.4569,0.0051
+5001400US5104,5104,"Congressional District 4 (114th Congress), Virginia",0.4113,0.0045
+5001400US5105,5105,"Congressional District 5 (114th Congress), Virginia",0.4724,0.0052
+5001400US5106,5106,"Congressional District 6 (114th Congress), Virginia",0.4491,0.0064
+5001400US5107,5107,"Congressional District 7 (114th Congress), Virginia",0.43,0.0042
+5001400US5108,5108,"Congressional District 8 (114th Congress), Virginia",0.4347,0.0044
+5001400US5109,5109,"Congressional District 9 (114th Congress), Virginia",0.4609,0.0058
+5001400US5110,5110,"Congressional District 10 (114th Congress), Virginia",0.421,0.0052
+5001400US5111,5111,"Congressional District 11 (114th Congress), Virginia",0.3947,0.0037
+5001400US5301,5301,"Congressional District 1 (114th Congress), Washington",0.4377,0.0049
+5001400US5302,5302,"Congressional District 2 (114th Congress), Washington",0.42,0.004
+5001400US5303,5303,"Congressional District 3 (114th Congress), Washington",0.4266,0.0047
+5001400US5304,5304,"Congressional District 4 (114th Congress), Washington",0.4341,0.005
+5001400US5305,5305,"Congressional District 5 (114th Congress), Washington",0.45,0.0046
+5001400US5306,5306,"Congressional District 6 (114th Congress), Washington",0.4428,0.0052
+5001400US5307,5307,"Congressional District 7 (114th Congress), Washington",0.4763,0.0058
+5001400US5308,5308,"Congressional District 8 (114th Congress), Washington",0.4207,0.0047
+5001400US5309,5309,"Congressional District 9 (114th Congress), Washington",0.4726,0.0052
+5001400US5310,5310,"Congressional District 10 (114th Congress), Washington",0.4068,0.004
+5001400US5401,5401,"Congressional District 1 (114th Congress), West Virginia",0.4608,0.0047
+5001400US5402,5402,"Congressional District 2 (114th Congress), West Virginia",0.4555,0.0074
+5001400US5403,5403,"Congressional District 3 (114th Congress), West Virginia",0.4635,0.006
+5001400US5501,5501,"Congressional District 1 (114th Congress), Wisconsin",0.4232,0.0042
+5001400US5502,5502,"Congressional District 2 (114th Congress), Wisconsin",0.4381,0.0047
+5001400US5503,5503,"Congressional District 3 (114th Congress), Wisconsin",0.4226,0.0037
+5001400US5504,5504,"Congressional District 4 (114th Congress), Wisconsin",0.4777,0.005
+5001400US5505,5505,"Congressional District 5 (114th Congress), Wisconsin",0.4313,0.0048
+5001400US5506,5506,"Congressional District 6 (114th Congress), Wisconsin",0.4318,0.0045
+5001400US5507,5507,"Congressional District 7 (114th Congress), Wisconsin",0.4282,0.0034
+5001400US5508,5508,"Congressional District 8 (114th Congress), Wisconsin",0.4201,0.0044
+5001400US5600,5600,"Congressional District (at Large) (114th Congress), Wyoming",0.4185,0.0056
+5001400US7298,7298,"Resident Commissioner District (at Large) (114th Congress), Puerto Rico",0.5389,0.0027

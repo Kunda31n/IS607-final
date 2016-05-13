@@ -1,0 +1,50 @@
+GEO.id,GEO.id2,GEO.display-label,HD01_VD01,HD02_VD01
+Id,Id2,Geography,Estimate; Gini Index,Margin of Error; Gini Index
+0200000US1,1,Northeast Region,0.4923,0.0015
+0200000US2,2,Midwest Region,0.461,0.0012
+0200000US3,3,South Region,0.4822,0.0008
+0200000US4,4,West Region,0.4765,0.0011
+0200001US1,1,Northeast Region -- Urban,0.4995,0.0016
+0200001US2,2,Midwest Region -- Urban,0.4722,0.0013
+0200001US3,3,South Region -- Urban,0.4863,0.0011
+0200001US4,4,West Region -- Urban,0.4773,0.0011
+0200043US1,1,Northeast Region -- Rural,0.4481,0.0038
+0200043US2,2,Midwest Region -- Rural,0.4238,0.0024
+0200043US3,3,South Region -- Rural,0.4646,0.002
+0200043US4,4,West Region -- Rural,0.4677,0.0037
+02000A0US1,1,Northeast Region -- In metropolitan or micropolitan statistical area,0.4928,0.0016
+02000A0US2,2,Midwest Region -- In metropolitan or micropolitan statistical area,0.4623,0.0013
+02000A0US3,3,South Region -- In metropolitan or micropolitan statistical area,0.4811,0.0008
+02000A0US4,4,West Region -- In metropolitan or micropolitan statistical area,0.4766,0.0011
+02000C0US1,1,Northeast Region -- In metropolitan statistical area,0.4939,0.0016
+02000C0US2,2,Midwest Region -- In metropolitan statistical area,0.4648,0.0014
+02000C0US3,3,South Region -- In metropolitan statistical area,0.4796,0.0009
+02000C0US4,4,West Region -- In metropolitan statistical area,0.4766,0.0012
+02000C1US1,1,Northeast Region -- In metropolitan statistical area -- in principal city,0.5399,0.0028
+02000C1US2,2,Midwest Region -- In metropolitan statistical area -- in principal city,0.4932,0.0021
+02000C1US3,3,South Region -- In metropolitan statistical area -- in principal city,0.5065,0.0019
+02000C1US4,4,West Region -- In metropolitan statistical area -- in principal city,0.4898,0.0019
+02000C2US1,1,Northeast Region -- In metropolitan statistical area -- not in principal city,0.4692,0.0017
+02000C2US2,2,Midwest Region -- In metropolitan statistical area -- not in principal city,0.4439,0.0019
+02000C2US3,3,South Region -- In metropolitan statistical area -- not in principal city,0.4622,0.0011
+02000C2US4,4,West Region -- In metropolitan statistical area -- not in principal city,0.4643,0.0018
+02000E0US1,1,Northeast Region -- In micropolitan statistical area,0.4413,0.0052
+02000E0US2,2,Midwest Region -- In micropolitan statistical area,0.4334,0.0032
+02000E0US3,3,South Region -- In micropolitan statistical area,0.472,0.0032
+02000E0US4,4,West Region -- In micropolitan statistical area,0.4563,0.0045
+02000E1US1,1,Northeast Region -- In micropolitan statistical area -- in principal city,0.4701,0.0131
+02000E1US2,2,Midwest Region -- In micropolitan statistical area -- in principal city,0.4564,0.0065
+02000E1US3,3,South Region -- In micropolitan statistical area -- in principal city,0.4938,0.0055
+02000E1US4,4,West Region -- In micropolitan statistical area -- in principal city,0.4656,0.0066
+02000E2US1,1,Northeast Region -- In micropolitan statistical area -- not in principal city,0.4322,0.005
+02000E2US2,2,Midwest Region -- In micropolitan statistical area -- not in principal city,0.4174,0.0035
+02000E2US3,3,South Region -- In micropolitan statistical area -- not in principal city,0.4605,0.004
+02000E2US4,4,West Region -- In micropolitan statistical area -- not in principal city,0.4497,0.0068
+02000G0US1,1,Northeast Region -- Not in metropolitan or micropolitan statistical area,0.4324,0.0057
+02000G0US2,2,Midwest Region -- Not in metropolitan or micropolitan statistical area,0.4338,0.0031
+02000G0US3,3,South Region -- Not in metropolitan or micropolitan statistical area,0.4669,0.0032
+02000G0US4,4,West Region -- Not in metropolitan or micropolitan statistical area,0.446,0.007
+02000H0US1,1,Northeast Region -- Not in metropolitan statistical area,0.4388,0.0043
+02000H0US2,2,Midwest Region -- Not in metropolitan statistical area,0.4337,0.0024
+02000H0US3,3,South Region -- Not in metropolitan statistical area,0.4699,0.0023
+02000H0US4,4,West Region -- Not in metropolitan statistical area,0.4534,0.0039
