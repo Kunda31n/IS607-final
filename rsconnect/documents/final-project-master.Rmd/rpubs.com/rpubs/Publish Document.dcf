@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/180719/02be74fdd8c34d5ea45df28a70d40e08
+url: http://rpubs.com/smkarr/180719
+when: 1463456065.8585
